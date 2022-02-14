@@ -1,16 +1,5 @@
-# want_gif
+# Want GIF App
 
-A new Flutter project.
+Created an app that uses flutter to show GIF
 
-## Getting Started
-
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://flutter.dev/docs/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://flutter.dev/docs/cookbook)
-
-For help getting started with Flutter, view our
-[online documentation](https://flutter.dev/docs), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+![WhatsApp Image 2022-02-14 at 9 20 15 PM](https://user-images.githubusercontent.com/63576303/153899906-5e3d0d04-431f-4e62-bca1-c42e3bd913bf.jpeg)
